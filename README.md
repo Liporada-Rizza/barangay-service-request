@@ -102,15 +102,15 @@ Full SQL: [`database/schema.sql`](database/schema.sql)
 ## 📸 Screenshots
 | Login | Register Validation |
 |---|---|
-| ![Login](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/login.png)| ![Register Validation](screenshots/register-validation.png) |
+| ![Login](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/login.png)| ![Register Validation](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/register-validation.png) |
 
 | Resident Dashboard | Edit Request |
 |---|---|
-| ![Resident Dashboard](screenshots/resident-dashboard.png) | ![Edit Request](screenshots/edit-request.png) |
+| ![Resident Dashboard](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/resident-dashboard.png) | ![Edit Request](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/edit-request.png) |
 
 | Admin Dashboard | Mobile View |
 |---|---|
-| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![Mobile](screenshots/mobile.png) |
+| ![Admin Dashboard](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/admin-dashboard.png) | ![Mobile](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/mobile.jpg) |
 
 ## ⚙️ Installation
 1. Create a free project on [Supabase](https://supabase.com)
