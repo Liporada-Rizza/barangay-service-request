@@ -102,7 +102,7 @@ Full SQL: [`database/schema.sql`](database/schema.sql)
 ## 📸 Screenshots
 | Login | Register Validation |
 |---|---|
-| ![Login]([screenshots/login.png](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/login.png)) | ![Register Validation](screenshots/register-validation.png) |
+| ![Login](https://github.com/Liporada-Rizza/barangay-service-request/blob/main/SSC/login.png)| ![Register Validation](screenshots/register-validation.png) |
 
 | Resident Dashboard | Edit Request |
 |---|---|
